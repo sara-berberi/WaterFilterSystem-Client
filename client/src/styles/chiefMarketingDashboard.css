@@ -1,0 +1,22 @@
+.dashboard {
+    background-image: url("../assets/recatngleBg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: rgb(171, 168, 168) 10px 10px 50px 10px;
+}
+
+.side {
+    background-image: url("../assets/Rectangle2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.search-bar{
+    box-shadow: inset gray 0.5px 1px 4px;
+    background: linear-gradient(45deg, #ebe8e8, transparent);
+}
+
+.search-bar::placeholder{
+    color: #6FADC8;
+}
