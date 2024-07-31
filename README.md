@@ -1,6 +1,5 @@
-# Water Filter System README
-
-Welcome to the Water Filter System project! This README provides an overview of the system's features, user roles, and functionality. Let's dive in! 🚀
+# Water Filter System Client
+This README provides an overview of the system's features, user roles, and functionality. Let's dive in! 🚀
 
 ## Table of Contents
 1. [Overview](#overview)
