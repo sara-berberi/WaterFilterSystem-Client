@@ -68,47 +68,86 @@ Here are some mockups of the system's user interface, showcasing different dashb
 ## Mockups
 Here are some mockups of the system's user interface, showcasing different dashboards and features:
 
-### Dashboard Screens
-1. ![Dashboard Mockup 1](mockups/1.png)
-2. ![Dashboard Mockup 2](mockups/2.png)
-3. ![Dashboard Mockup 3](mockups/3.png)
-4. ![Dashboard Mockup 4](mockups/4.png)
-5. ![Dashboard Mockup 5](mockups/5.png)
-6. ![Dashboard Mockup 6](mockups/6.png)
-7. ![Dashboard Mockup 7](mockups/7.png)
-8. ![Dashboard Mockup 8](mockups/8.png)
-9. ![Dashboard Mockup 9](mockups/9.png)
-10. ![Dashboard Mockup 10](mockups/10.png)
-11. ![Dashboard Mockup 11](mockups/11.png)
-12. ![Dashboard Mockup 12](mockups/12.png)
+<table>
+  <tr>
+    <td><img src="mockups/1.png" alt="Dashboard Mockup 1" width="200"/></td>
+    <td><img src="mockups/2.png" alt="Dashboard Mockup 2" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/3.png" alt="Dashboard Mockup 3" width="200"/></td>
+    <td><img src="mockups/4.png" alt="Dashboard Mockup 4" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/5.png" alt="Dashboard Mockup 5" width="200"/></td>
+    <td><img src="mockups/6.png" alt="Dashboard Mockup 6" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/7.png" alt="Dashboard Mockup 7" width="200"/></td>
+    <td><img src="mockups/8.png" alt="Dashboard Mockup 8" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/9.png" alt="Dashboard Mockup 9" width="200"/></td>
+    <td><img src="mockups/10.png" alt="Dashboard Mockup 10" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/11.png" alt="Dashboard Mockup 11" width="200"/></td>
+    <td><img src="mockups/12.png" alt="Dashboard Mockup 12" width="200"/></td>
+  </tr>
+</table>
 
-### Additional Screens (JPGs)
-13. ![Screen Mockup 13](mockups/13.jpg)
-14. ![Screen Mockup 14](mockups/14.jpg)
-15. ![Screen Mockup 15](mockups/15.jpg)
-16. ![Screen Mockup 16](mockups/16.jpg)
-17. ![Screen Mockup 17](mockups/17.jpg)
-18. ![Screen Mockup 18](mockups/18.jpg)
-19. ![Screen Mockup 19](mockups/19.jpg)
-20. ![Screen Mockup 20](mockups/20.jpg)
-21. ![Screen Mockup 21](mockups/21.jpg)
-22. ![Screen Mockup 22](mockups/22.jpg)
-23. ![Screen Mockup 23](mockups/23.jpg)
-24. ![Screen Mockup 24](mockups/24.jpg)
-25. ![Screen Mockup 25](mockups/25.jpg)
-26. ![Screen Mockup 26](mockups/26.jpg)
-27. ![Screen Mockup 27](mockups/27.jpg)
-28. ![Screen Mockup 28](mockups/28.jpg)
-29. ![Screen Mockup 29](mockups/29.jpg)
-30. ![Screen Mockup 30](mockups/30.jpg)
-31. ![Screen Mockup 31](mockups/31.jpg)
-32. ![Screen Mockup 32](mockups/32.jpg)
-33. ![Screen Mockup 33](mockups/33.jpg)
-34. ![Screen Mockup 34](mockups/34.jpg)
-35. ![Screen Mockup 35](mockups/35.jpg)
-36. ![Screen Mockup 36](mockups/36.jpg)
-37. ![Screen Mockup 37](mockups/37.jpg)
-
+<table>
+  <tr>
+    <td><img src="mockups/13.jpg" alt="Screen Mockup 13" width="200"/></td>
+    <td><img src="mockups/14.jpg" alt="Screen Mockup 14" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/15.jpg" alt="Screen Mockup 15" width="200"/></td>
+    <td><img src="mockups/16.jpg" alt="Screen Mockup 16" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/17.jpg" alt="Screen Mockup 17" width="200"/></td>
+    <td><img src="mockups/18.jpg" alt="Screen Mockup 18" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/19.jpg" alt="Screen Mockup 19" width="200"/></td>
+    <td><img src="mockups/20.jpg" alt="Screen Mockup 20" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/21.jpg" alt="Screen Mockup 21" width="200"/></td>
+    <td><img src="mockups/22.jpg" alt="Screen Mockup 22" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/23.jpg" alt="Screen Mockup 23" width="200"/></td>
+    <td><img src="mockups/24.jpg" alt="Screen Mockup 24" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/25.jpg" alt="Screen Mockup 25" width="200"/></td>
+    <td><img src="mockups/26.jpg" alt="Screen Mockup 26" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/27.jpg" alt="Screen Mockup 27" width="200"/></td>
+    <td><img src="mockups/28.jpg" alt="Screen Mockup 28" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/29.jpg" alt="Screen Mockup 29" width="200"/></td>
+    <td><img src="mockups/30.jpg" alt="Screen Mockup 30" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/31.jpg" alt="Screen Mockup 31" width="200"/></td>
+    <td><img src="mockups/32.jpg" alt="Screen Mockup 32" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/33.jpg" alt="Screen Mockup 33" width="200"/></td>
+    <td><img src="mockups/34.jpg" alt="Screen Mockup 34" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/35.jpg" alt="Screen Mockup 35" width="200"/></td>
+    <td><img src="mockups/36.jpg" alt="Screen Mockup 36" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="mockups/37.jpg" alt="Screen Mockup 37" width="200"/></td>
+  </tr>
+</table>
 
 ## System Requirements
 - **Hardware**: Standard computer with internet access.
