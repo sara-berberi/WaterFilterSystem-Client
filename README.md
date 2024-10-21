@@ -60,6 +60,55 @@ This system is designed to streamline the sales, scheduling, and management proc
 - **Phone Agents**: Manage references, make calls, and set up meetings.
 - **Marketing Manager**: Oversee sales and phone agents, manage schedules, and handle reference details.
 - **Chief of Operations**: Approve sales, manage commissions, schedule installations, and oversee inventory.
+- 
+
+## Mockups
+Here are some mockups of the system's user interface, showcasing different dashboards and features:
+
+## Mockups
+Here are some mockups of the system's user interface, showcasing different dashboards and features:
+
+### Dashboard Screens
+1. ![Dashboard Mockup 1](mockups/1.png)
+2. ![Dashboard Mockup 2](mockups/2.png)
+3. ![Dashboard Mockup 3](mockups/3.png)
+4. ![Dashboard Mockup 4](mockups/4.png)
+5. ![Dashboard Mockup 5](mockups/5.png)
+6. ![Dashboard Mockup 6](mockups/6.png)
+7. ![Dashboard Mockup 7](mockups/7.png)
+8. ![Dashboard Mockup 8](mockups/8.png)
+9. ![Dashboard Mockup 9](mockups/9.png)
+10. ![Dashboard Mockup 10](mockups/10.png)
+11. ![Dashboard Mockup 11](mockups/11.png)
+12. ![Dashboard Mockup 12](mockups/12.png)
+
+### Additional Screens (JPGs)
+13. ![Screen Mockup 13](mockups/13.jpg)
+14. ![Screen Mockup 14](mockups/14.jpg)
+15. ![Screen Mockup 15](mockups/15.jpg)
+16. ![Screen Mockup 16](mockups/16.jpg)
+17. ![Screen Mockup 17](mockups/17.jpg)
+18. ![Screen Mockup 18](mockups/18.jpg)
+19. ![Screen Mockup 19](mockups/19.jpg)
+20. ![Screen Mockup 20](mockups/20.jpg)
+21. ![Screen Mockup 21](mockups/21.jpg)
+22. ![Screen Mockup 22](mockups/22.jpg)
+23. ![Screen Mockup 23](mockups/23.jpg)
+24. ![Screen Mockup 24](mockups/24.jpg)
+25. ![Screen Mockup 25](mockups/25.jpg)
+26. ![Screen Mockup 26](mockups/26.jpg)
+27. ![Screen Mockup 27](mockups/27.jpg)
+28. ![Screen Mockup 28](mockups/28.jpg)
+29. ![Screen Mockup 29](mockups/29.jpg)
+30. ![Screen Mockup 30](mockups/30.jpg)
+31. ![Screen Mockup 31](mockups/31.jpg)
+32. ![Screen Mockup 32](mockups/32.jpg)
+33. ![Screen Mockup 33](mockups/33.jpg)
+34. ![Screen Mockup 34](mockups/34.jpg)
+35. ![Screen Mockup 35](mockups/35.jpg)
+36. ![Screen Mockup 36](mockups/36.jpg)
+37. ![Screen Mockup 37](mockups/37.jpg)
+
 
 ## System Requirements
 - **Hardware**: Standard computer with internet access.
