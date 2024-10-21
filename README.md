@@ -70,82 +70,82 @@ Here are some mockups of the system's user interface, showcasing different dashb
 
 <table>
   <tr>
-    <td><img src="mockups/1.png" alt="Dashboard Mockup 1" width="200"/></td>
-    <td><img src="mockups/2.png" alt="Dashboard Mockup 2" width="200"/></td>
+    <td><img src="mockups/1.png" alt="Dashboard Mockup 1" width="400"/></td>
+    <td><img src="mockups/2.png" alt="Dashboard Mockup 2" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="mockups/3.png" alt="Dashboard Mockup 3" width="200"/></td>
-    <td><img src="mockups/4.png" alt="Dashboard Mockup 4" width="200"/></td>
+    <td><img src="mockups/3.png" alt="Dashboard Mockup 3" width="400"/></td>
+    <td><img src="mockups/4.png" alt="Dashboard Mockup 4" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="mockups/5.png" alt="Dashboard Mockup 5" width="200"/></td>
-    <td><img src="mockups/6.png" alt="Dashboard Mockup 6" width="200"/></td>
+    <td><img src="mockups/5.png" alt="Dashboard Mockup 5" width="400"/></td>
+    <td><img src="mockups/6.png" alt="Dashboard Mockup 6" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="mockups/7.png" alt="Dashboard Mockup 7" width="200"/></td>
-    <td><img src="mockups/8.png" alt="Dashboard Mockup 8" width="200"/></td>
+    <td><img src="mockups/7.png" alt="Dashboard Mockup 7" width="400"/></td>
+    <td><img src="mockups/8.png" alt="Dashboard Mockup 8" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="mockups/9.png" alt="Dashboard Mockup 9" width="200"/></td>
-    <td><img src="mockups/10.png" alt="Dashboard Mockup 10" width="200"/></td>
+    <td><img src="mockups/9.png" alt="Dashboard Mockup 9" width="400"/></td>
+    <td><img src="mockups/10.png" alt="Dashboard Mockup 10" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="mockups/11.png" alt="Dashboard Mockup 11" width="200"/></td>
-    <td><img src="mockups/12.png" alt="Dashboard Mockup 12" width="200"/></td>
+    <td><img src="mockups/11.png" alt="Dashboard Mockup 11" width="400"/></td>
+    <td><img src="mockups/12.png" alt="Dashboard Mockup 12" width="400"/></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="mockups/13.jpg" alt="Screen Mockup 13" width="200"/></td>
-    <td><img src="mockups/14.jpg" alt="Screen Mockup 14" width="200"/></td>
+    <td><img src="mockups/13.jpg" alt="Screen Mockup 13" width="400"/></td>
+    <td><img src="mockups/14.jpg" alt="Screen Mockup 14" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="mockups/15.jpg" alt="Screen Mockup 15" width="200"/></td>
-    <td><img src="mockups/16.jpg" alt="Screen Mockup 16" width="200"/></td>
+    <td><img src="mockups/15.jpg" alt="Screen Mockup 15" width="400"/></td>
+    <td><img src="mockups/16.jpg" alt="Screen Mockup 16" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="mockups/17.jpg" alt="Screen Mockup 17" width="200"/></td>
-    <td><img src="mockups/18.jpg" alt="Screen Mockup 18" width="200"/></td>
+    <td><img src="mockups/17.jpg" alt="Screen Mockup 17" width="400"/></td>
+    <td><img src="mockups/18.jpg" alt="Screen Mockup 18" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="mockups/19.jpg" alt="Screen Mockup 19" width="200"/></td>
-    <td><img src="mockups/20.jpg" alt="Screen Mockup 20" width="200"/></td>
+    <td><img src="mockups/19.jpg" alt="Screen Mockup 19" width="400"/></td>
+    <td><img src="mockups/20.jpg" alt="Screen Mockup 20" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="mockups/21.jpg" alt="Screen Mockup 21" width="200"/></td>
-    <td><img src="mockups/22.jpg" alt="Screen Mockup 22" width="200"/></td>
+    <td><img src="mockups/21.jpg" alt="Screen Mockup 21" width="400"/></td>
+    <td><img src="mockups/22.jpg" alt="Screen Mockup 22" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="mockups/23.jpg" alt="Screen Mockup 23" width="200"/></td>
-    <td><img src="mockups/24.jpg" alt="Screen Mockup 24" width="200"/></td>
+    <td><img src="mockups/23.jpg" alt="Screen Mockup 23" width="400"/></td>
+    <td><img src="mockups/24.jpg" alt="Screen Mockup 24" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="mockups/25.jpg" alt="Screen Mockup 25" width="200"/></td>
-    <td><img src="mockups/26.jpg" alt="Screen Mockup 26" width="200"/></td>
+    <td><img src="mockups/25.jpg" alt="Screen Mockup 25" width="400"/></td>
+    <td><img src="mockups/26.jpg" alt="Screen Mockup 26" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="mockups/27.jpg" alt="Screen Mockup 27" width="200"/></td>
-    <td><img src="mockups/28.jpg" alt="Screen Mockup 28" width="200"/></td>
+    <td><img src="mockups/27.jpg" alt="Screen Mockup 27" width="400"/></td>
+    <td><img src="mockups/28.jpg" alt="Screen Mockup 28" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="mockups/29.jpg" alt="Screen Mockup 29" width="200"/></td>
-    <td><img src="mockups/30.jpg" alt="Screen Mockup 30" width="200"/></td>
+    <td><img src="mockups/29.jpg" alt="Screen Mockup 29" width="400"/></td>
+    <td><img src="mockups/30.jpg" alt="Screen Mockup 30" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="mockups/31.jpg" alt="Screen Mockup 31" width="200"/></td>
-    <td><img src="mockups/32.jpg" alt="Screen Mockup 32" width="200"/></td>
+    <td><img src="mockups/31.jpg" alt="Screen Mockup 31" width="400"/></td>
+    <td><img src="mockups/32.jpg" alt="Screen Mockup 32" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="mockups/33.jpg" alt="Screen Mockup 33" width="200"/></td>
-    <td><img src="mockups/34.jpg" alt="Screen Mockup 34" width="200"/></td>
+    <td><img src="mockups/33.jpg" alt="Screen Mockup 33" width="400"/></td>
+    <td><img src="mockups/34.jpg" alt="Screen Mockup 34" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="mockups/35.jpg" alt="Screen Mockup 35" width="200"/></td>
-    <td><img src="mockups/36.jpg" alt="Screen Mockup 36" width="200"/></td>
+    <td><img src="mockups/35.jpg" alt="Screen Mockup 35" width="400"/></td>
+    <td><img src="mockups/36.jpg" alt="Screen Mockup 36" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="mockups/37.jpg" alt="Screen Mockup 37" width="200"/></td>
+    <td><img src="mockups/37.jpg" alt="Screen Mockup 37" width="400"/></td>
   </tr>
 </table>
 
